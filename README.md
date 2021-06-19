@@ -7,7 +7,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 **Título**: Portfolio Otilia
 
 
-**Web**: https://github.com/Otiliajurado
+**Web**: https://otiliajurado.github.io/
 
 **Autor**: Otilia Peña Jurado 
 
@@ -36,12 +36,12 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 El proyecto tiene una breve introducción y el menú donde puedes ver los ver, a través de botones, todas las obras realizadas incluido un video experimental y un juego de preguntas.
 
-![storyboard](https://raw.githubusercontent.com/Otiliajurado/Portfolio.Otilia/main/storyboard.jpg)
+![storyboard](https://raw.githubusercontent.com/Otiliajurado/Otiliajurado.github.io/main/storyboard.jpg)
 
 **ESQUEMA DE NAVEGACIÓN**
 
 
-![esquema](https://raw.githubusercontent.com/Otiliajurado/Portfolio.Otilia/main/esquema.jpg)
+![esquema](https://raw.githubusercontent.com/Otiliajurado/Otiliajurado.github.io/main/esquema.jpg)
 
 
 ## METODOLOGÍA

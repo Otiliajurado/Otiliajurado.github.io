@@ -7,7 +7,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 **Título**: Portfolio Otilia
 
 
-**Web**: https://otiliajurado.github.io/
+**Web**: https://otiliajurado.github.io/PORTFOLIO_OTILIA.html
 
 **Autor**: Otilia Peña Jurado 
 

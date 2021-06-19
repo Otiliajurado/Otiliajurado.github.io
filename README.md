@@ -35,7 +35,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 El proyecto tiene una breve introducción y el menú donde puedes ver los ver, a través de botones, todas las obras realizadas incluido un video experimental y un juego de preguntas.
 
-https://raw.githubusercontent.com/Otiliajurado/Portfolio.Otilia/main/storyboard.jpg
+![storyboard](https://raw.githubusercontent.com/Otiliajurado/Portfolio.Otilia/main/storyboard.jpg)
 
 **ESQUEMA DE NAVEGACIÓN**
 

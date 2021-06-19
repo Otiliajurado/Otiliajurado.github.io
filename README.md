@@ -39,6 +39,10 @@ El proyecto tiene una breve introducción y el menú donde puedes ver los ver, a
 
 **ESQUEMA DE NAVEGACIÓN**
 
+
+![esquema](https://raw.githubusercontent.com/Otiliajurado/Portfolio.Otilia/main/esquema.jpg)
+
+
 ## METODOLOGÍA
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)

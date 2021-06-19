@@ -83,7 +83,7 @@ El proyecto no está cerrado a ningún tipo de público, es fácil de utilizar, 
 
 ## Etapa 3: Problemas identificados
 
-No he sido capaz de hacer que el quizz al terminar vuelva al proyecto, además algunas veces los movimientos de fotos o botones son algo raros.
+Algunas veces los movimientos de fotos o botones son algo raros.
 
 
 ## CONCLUSIONES 
